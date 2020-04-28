@@ -1,0 +1,3 @@
+/home/xianbiao/code/peopledect/include/CMakeFiles/rebuild_cache.dir
+/home/xianbiao/code/peopledect/include/CMakeFiles/edit_cache.dir
+/home/xianbiao/code/peopledect/include/CMakeFiles/main.dir
